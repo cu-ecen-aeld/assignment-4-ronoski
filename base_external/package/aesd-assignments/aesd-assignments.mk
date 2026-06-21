@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 99a5e339b1e3248cdef21421c6b8a592c72286a6
+AESD_ASSIGNMENTS_VERSION = da5d67ca43ba8d908bf494120b3c873beb3dc872
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-ronoski.git
